@@ -7,6 +7,4 @@
 ✔ Easy test case management 🧪
 ✔ User-friendly, dark-themed interface 🌙
 
-🔗 Get started now!
-
 <img src="https://github.com/Kittipakorn/Quick-Compile/blob/main/Screenshot.png">
